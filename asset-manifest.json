@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EmployeeManagementSystem-Frontend-React/static/css/main.b4b8c3d4.css",
+    "main.js": "/EmployeeManagementSystem-Frontend-React/static/js/main.a3670ae3.js",
+    "static/js/453.785134cd.chunk.js": "/EmployeeManagementSystem-Frontend-React/static/js/453.785134cd.chunk.js",
+    "static/media/images-removebg-preview.png": "/EmployeeManagementSystem-Frontend-React/static/media/images-removebg-preview.5722934356221022365f.png",
+    "static/media/logo.svg": "/EmployeeManagementSystem-Frontend-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EmployeeManagementSystem-Frontend-React/index.html",
+    "main.b4b8c3d4.css.map": "/EmployeeManagementSystem-Frontend-React/static/css/main.b4b8c3d4.css.map",
+    "main.a3670ae3.js.map": "/EmployeeManagementSystem-Frontend-React/static/js/main.a3670ae3.js.map",
+    "453.785134cd.chunk.js.map": "/EmployeeManagementSystem-Frontend-React/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b8c3d4.css",
+    "static/js/main.a3670ae3.js"
+  ]
+}
