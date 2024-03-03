@@ -24,10 +24,10 @@ export default function Edit() {
   }, []);
   var employeedata = {
     employeeID:id,
-    employeeName: name,
+    employeeName: ename,
     phoneNumber: number,
-    email: email,
-    reportsTo: manager,
+    email: eemail,
+    reportsTo: emanager,
     profileImage: url,
   };
   const navigate = useNavigate()
