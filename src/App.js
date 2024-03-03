@@ -11,7 +11,7 @@ import Edit from './screens/Edit';
 function App() {
   return (
  
-    <Router>
+    <Router basename='/EmployeeManagementSystem-Frontend-React'>
       <div>
         <Routes>
           <Route exact path='/' element={<Main/>}/>
